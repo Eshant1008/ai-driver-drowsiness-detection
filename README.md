@@ -37,4 +37,4 @@ Head nod detection
 Mobile phone usage detection
 Smart vehicle integration
 
-![AI Driver Drowsiness Detection](thumbnail.png)
+[![Watch Demo](thumbnail.png)](https://www.youtube.com/watch?v=it-qiAztqec)
