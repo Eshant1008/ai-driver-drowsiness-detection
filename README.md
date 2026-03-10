@@ -36,3 +36,5 @@ Yawning detection
 Head nod detection
 Mobile phone usage detection
 Smart vehicle integration
+
+![AI Driver Drowsiness Detection](thumbnail.png)
